@@ -2,3 +2,4 @@ Este es un sistema de biblioteca escolar donde se llevan un registro de los libr
 el nombre de la carpeta en "htdocs" debe de ser "biblioteca".
 Mi login es User:admin Password:admin
 Tu login es User:monce Password:admin
+El SQL para la BD esta en la carpeta BD.
