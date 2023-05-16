@@ -1,4 +1,6 @@
 <?php
+/*Controlador config*/
+
     class Configuracion extends Controllers{
         public function __construct()
         {

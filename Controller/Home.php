@@ -1,4 +1,6 @@
 <?php
+/*Controlador Home*/
+
     class Home extends Controllers{
         public function __construct()
         {

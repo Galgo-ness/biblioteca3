@@ -1,4 +1,6 @@
 <?php
+/*Core controlador*/
+
 class Controllers{
     public function __construct()
     {

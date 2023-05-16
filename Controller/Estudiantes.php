@@ -1,4 +1,5 @@
 <?php
+/*Controlador estudiante*/
 class Estudiantes extends Controllers
 {
     public function __construct()

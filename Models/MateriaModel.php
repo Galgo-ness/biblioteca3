@@ -1,4 +1,6 @@
 <?php
+/*Model materia*/
+
 class MateriaModel extends Mysql{
     public $id, $ruc, $nombre, $telefono, $direccion;
     public function __construct()

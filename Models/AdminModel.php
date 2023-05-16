@@ -1,4 +1,6 @@
 <?php
+/*Model Admin*/
+
 class AdminModel extends Mysql{
     public function __construct()
     {

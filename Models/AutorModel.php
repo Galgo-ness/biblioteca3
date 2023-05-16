@@ -1,4 +1,6 @@
 <?php
+/*Model autor*/
+
 class AutorModel extends Mysql{
     protected $id, $nombre,$imagen;
     public function __construct()

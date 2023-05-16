@@ -1,4 +1,6 @@
 <?php
+/*Controlador autor*/
+
     class Autor extends Controllers{
         public function __construct()
         {

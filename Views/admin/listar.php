@@ -1,4 +1,5 @@
 <?php encabezado() ?>
+<!-- Listar en admin-->
 
 <div id="layoutSidenav_content">
     <?php if (isset($_GET['no_s'])) { ?>

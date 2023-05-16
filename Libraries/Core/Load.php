@@ -1,4 +1,6 @@
 <?php
+/*Core carga*/
+
 $controllerFile = "Controller/" . $controller . ".php";
 if (file_exists($controllerFile)) {
     require_once($controllerFile);

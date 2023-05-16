@@ -1,4 +1,6 @@
 <?php
+/*Core SQL*/
+
 class Mysql extends Conexion{
     private $conexion;
     private $strquery;

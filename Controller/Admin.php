@@ -1,4 +1,6 @@
 <?php
+/*Controlador admin*/
+
     class Admin extends Controllers{
         public function __construct()
         {

@@ -1,4 +1,6 @@
 <?php
+/*Model Editorial*/
+
 class EditorialModel extends Mysql{
     public $id, $ruc, $nombre, $telefono, $direccion;
     public function __construct()

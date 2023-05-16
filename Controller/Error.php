@@ -1,4 +1,6 @@
 <?php
+/*Controlador error*/
+
     class Errors extends Controllers{
         public function __construct()
         {

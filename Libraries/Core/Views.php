@@ -1,4 +1,6 @@
 <?php
+/*Core vista*/
+
 class Views{
     function getView($controller, $view, $data="", $alert="", $config = "", $cliente = "")
     {

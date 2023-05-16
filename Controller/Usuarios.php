@@ -1,4 +1,6 @@
 <?php
+/*Controlador usuario*/
+
 class Usuarios extends Controllers
 {
     public function __construct()

@@ -1,4 +1,6 @@
 <?php
+/*Model Home*/
+
 class HomeModel extends Mysql{
     public $usuario, $clave;
     public function __construct()

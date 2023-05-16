@@ -1,4 +1,6 @@
 <?php
+/*Controlador editorial*/
+
 class Editorial extends Controllers
 {
     public function __construct()

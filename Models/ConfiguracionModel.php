@@ -1,4 +1,6 @@
 <?php
+/*Model config*/
+
 class ConfiguracionModel extends Mysql{
     protected $id, $nombre, $telefono, $direccion;
     public function __construct()

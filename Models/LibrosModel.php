@@ -1,4 +1,6 @@
 <?php
+/*Model Libro*/
+
 class LibrosModel extends Mysql{
     protected $id, $nombre,$imagen;
     public function __construct()

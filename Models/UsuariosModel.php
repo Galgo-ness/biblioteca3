@@ -1,4 +1,5 @@
 <?php
+/*Model usuario*/
 class UsuariosModel extends Mysql{
     public $id, $clave, $nombre, $usuario, $correo, $rol;
     public function __construct()

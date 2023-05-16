@@ -1,4 +1,6 @@
 <?php
+/*Core conex*/
+
 class Conexion{
     private $conect;
     public function __construct()

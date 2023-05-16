@@ -1,4 +1,5 @@
 <?php
+/*Controlador Libros*/
     class Libros extends Controllers{
         public function __construct()
         {
